@@ -3,7 +3,7 @@ getgenv().webhookexecUrl = "https://rbxhook.cc/r/5d6255d94872d1c2027725b90d9b5c3
 getgenv().ExecLogSecret = true
 
 --// Whitelist configuration
-getgenv().WhitelistEnabled = true -- Set to false to disable whitelist
+getgenv().WhitelistEnabled = false -- Set to false to disable whitelist
 getgenv().WhitelistedUsers = {
     ["UserId"] = {5205442196}, -- Add user IDs here
     ["Username"] = {"lucky_helpme7alt"} -- Add usernames here
